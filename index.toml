@@ -824,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-music.pw.toml"
-hash = "68dd13757ad2b57d29877665ea98ff1f9d9ec2ff7e5b5dc70589658f9f5794a9"
+hash = "1fef58001b86b54789a1d610d088c0becd883b5e3591913153566af1b4c32870"
 metafile = true
 
 [[files]]
@@ -854,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
+hash = "4ab858babfd5ef7474b4e78c93b1819a78eef5b92ca30349f16aaa82f883fc55"
 metafile = true
 
 [[files]]
@@ -979,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "895a16cc23b52ea6f851727c04199deae43eedb5bc9d6d121d20bf7f3a97c70a"
+hash = "aece1c44c372db91019c20b6e910ca33b4eb5923e7fe2470d8f8ffb71601972e"
 metafile = true
 
 [[files]]
@@ -1063,11 +1063,6 @@ hash = "b74c92587d89d25881499adfdc925dc65c6bc4558d3c282d8872dc82047cd112"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "3979b82d5760d5a21e6bfecc9de4d49163880ae335e24b8de3fbd1c398617c4a"
-metafile = true
-
-[[files]]
 file = "mods/l2library.pw.toml"
 hash = "c85afb20245350586c224e38ac1c27760ed86b23984e1250553484fa1f367c2d"
 metafile = true
@@ -1104,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/medieval-music.pw.toml"
-hash = "e49271edb0a9de4c9d1c713d03abb4e4930a8677e2514ce7d741b461e35a3302"
+hash = "aa502bafe952037f5699830d09740d78eb4b53fc8addbe656163432301747a61"
 metafile = true
 
 [[files]]
@@ -1329,12 +1324,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "055a63a6423c3c60ec88aa5f2b74454d84d2554cad398713d032505af3a38a75"
+hash = "deb0a353d392d3adaaaf581db3b52bc21853e20b00c74a598be4d0fb984079ec"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "bbaee5a4a872bcef12d52c09083f34b656b82990b281d1ee7fa6b6813c356dd0"
+hash = "ec082a33cab35e5f1dd909d574cf4fde1e454b466abaf35bd6d245487dbf00af"
 metafile = true
 
 [[files]]
