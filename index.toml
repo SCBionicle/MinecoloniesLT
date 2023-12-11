@@ -1351,7 +1351,3 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "50c709e0297001b0825179335e9f8c81d802740612497e1d231abb19b2fef6bc"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "5b7db5f7d55eed54bbee78cb6e49b853683ebedd4614c35b90f3f7e6b5313176"
