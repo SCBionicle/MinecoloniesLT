@@ -1,6 +1,10 @@
 name = "Medieval Music[Forge/Fabric]"
 filename = "zmedievalmusic-1.20.1-2.1.jar"
-side = "both"
+side = "client"
+
+[option]
+optional = true
+default = true
 
 [download]
 hash-format = "sha1"
