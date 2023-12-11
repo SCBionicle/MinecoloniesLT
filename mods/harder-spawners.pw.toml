@@ -1,0 +1,13 @@
+name = "Harder Spawners"
+filename = "harderspawners-1.20-46.25.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5afe68c0712c76ac39f3ffbf8eed0a01b8bb5c24"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4654452
+project-id = 399413

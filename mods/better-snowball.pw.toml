@@ -1,0 +1,13 @@
+name = "Better Snowball"
+filename = "Better_Snowball-1.20.1-1.0.0-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "454eb369dedc03eeb19c72181c7cec3a72cf820c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4724137
+project-id = 907194
