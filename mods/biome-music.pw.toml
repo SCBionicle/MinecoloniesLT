@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+default = true
 
 [download]
 hash-format = "sha1"
