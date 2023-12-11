@@ -774,7 +774,7 @@ hash = "7e50b6df18dead9111f1784b6f4c52d6d2bcda40e31c75295314b82b32bce021"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "e4e19543a206b71f651c1d9ebee43ff6fabce75fd5f370bd485696f98fa12f18"
+hash = "70fd91c9029d4344e0dfb27de1b02095ff185f3cca49d29d28c65e35d61642db"
 metafile = true
 
 [[files]]
@@ -824,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-music.pw.toml"
-hash = "1fef58001b86b54789a1d610d088c0becd883b5e3591913153566af1b4c32870"
+hash = "a3ac8133c0cd3d1adf12156e90d90a4a2eb64de62f70517b91cfc4e443125b76"
 metafile = true
 
 [[files]]
@@ -1104,7 +1104,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "c63f4c30e77ce1f612c3ac88aca6fd9ef7e0279538d1eb9e586a886bf3084903"
+hash = "4fef6e762c405565bd17bbf904956061166334b4253aa991df4afafc9e17d084"
 metafile = true
 
 [[files]]
@@ -1351,3 +1351,7 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "50c709e0297001b0825179335e9f8c81d802740612497e1d231abb19b2fef6bc"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "5b7db5f7d55eed54bbee78cb6e49b853683ebedd4614c35b90f3f7e6b5313176"
