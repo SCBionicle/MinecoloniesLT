@@ -1,0 +1,13 @@
+name = "Minecolonies LT"
+author = "SCBionicle"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c2571b9b64b7c091b990928bdc90f57badc03c2854ca2cdedf404f75dc9f7ba7"
+
+[versions]
+forge = "47.2.17"
+minecraft = "1.20.1"

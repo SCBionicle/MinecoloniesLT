@@ -1,0 +1,66 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "a8ec03ffedd6749011b6a0b44016801dc6586083cf8636e5139c236f8772dd3d"
+metafile = true
+
+[[files]]
+file = "mods/better-village-forge.pw.toml"
+hash = "1aaff9c7a621b3af82415312ee6a152b43dcd77c4bb24c9968a7cf37a4e1931a"
+metafile = true
+
+[[files]]
+file = "mods/blockui.pw.toml"
+hash = "7e3bc5c0868815a91d70e80811f8eb25703b87173d80eea53a363039f94bff33"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "ee7e8aedd0febb425a837c78acf2a4b5b8729c0a854c3b6a2d57ed27f5cf5afe"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "d616c26d95b6e468c5b1b6be91b7cb5537b8039d270395abaca3675aa03f97f7"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "8b2edbb9b779398da406011a7a4d73411c330baaab9592f3ffed7a7a3642de92"
+metafile = true
+
+[[files]]
+file = "mods/library-ferret-forge.pw.toml"
+hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "660851f95ed2b962e1418a2d5c440e4fa5566eb45190c3e758ae69930bb1e602"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "7cb8fd3d40eddee4b2d5c44ccb089739e8a6ef9becef5f498a05a7ac8bba76f3"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "e81c1deb8ae4582cd71ab44290ebb7c0de93acf13511d192ed18720b064b75e4"
+metafile = true
+
+[[files]]
+file = "mods/towntalk.pw.toml"
+hash = "ed3b5e994d242909157f87fa3a0479d420b1c69b269cc70d9f907a1542acbb67"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
+hash = "055a63a6423c3c60ec88aa5f2b74454d84d2554cad398713d032505af3a38a75"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "bbaee5a4a872bcef12d52c09083f34b656b82990b281d1ee7fa6b6813c356dd0"
+metafile = true
