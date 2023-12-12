@@ -637,6 +637,10 @@ file = "config/treechop-common.toml"
 hash = "0e3b13379134872dc890ac0b34ed8d13f7dd1509a75eac5d83abe2915a9ffb22"
 
 [[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "a21f0171db4eb6922298043ce8fa311ecde4f59654f663d6088886c05986aa47"
+
+[[files]]
 file = "config/waddles-common.toml"
 hash = "a0c9833c1ef96f9c7776bc98884eacef8aa58c47bdefb999b89756530705f5b9"
 
