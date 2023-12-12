@@ -706,35 +706,35 @@ hash = "4728f57a41725d1bc4e94f26687f3853455dd8d9a6505deba1f56b6f08947d2b"
 
 [[files]]
 file = "global_packs/required_data/Vegan Craft/data/vegan_craft/recipes/andesite.json"
-hash = "75c1bc07544c31132916deed74eac552c658d98fbd59df62c2ecffb0e6e74b24"
+hash = "0136bcfc9185778f67041f2a31cf95dab0898eb842ee596542faab9ff3b5b18d"
 
 [[files]]
 file = "global_packs/required_data/Vegan Craft/data/vegan_craft/recipes/arrow.json"
-hash = "5fc489896704908f1f73b9ee17bc9262720a15e090e4d02fe55d722976502bb0"
+hash = "54d0bc0265787b224fb72f1e097dd08d16bf0d1167e27014771dfa473a5075aa"
 
 [[files]]
 file = "global_packs/required_data/Vegan Craft/data/vegan_craft/recipes/beef.json"
-hash = "853bac5517a630fb5085a4bee351d92dc1e6bdcf6ade889fea96a1076d0d341e"
+hash = "9aac892dc887c71ab000e906b3dd5cedfd546a7f4ec08e7dda9eb3ddd1a5b229"
 
 [[files]]
 file = "global_packs/required_data/Vegan Craft/data/vegan_craft/recipes/chicken.json"
-hash = "179d0db4f7184ebb63faa9296e7b4e964462db3672df8e2154de380a1d833716"
+hash = "00d834c78f263778dc2799109ad28d544e4eab777409e8af1abd9fcf60712ee6"
 
 [[files]]
 file = "global_packs/required_data/Vegan Craft/data/vegan_craft/recipes/cod.json"
-hash = "2236d1373f17b7baefd0491a0fc8c3e9a30e13fb5cd2949573ce268ef7fc7b01"
+hash = "59d7cee1fe1509e49d18f1e8e9ac242df74fc0149a61c903adac7a0a0b609467"
 
 [[files]]
 file = "global_packs/required_data/Vegan Craft/data/vegan_craft/recipes/diorite.json"
-hash = "43c49f9971f600f666dd0ab4490931603f9283e64bedfbc6c3dfe3f526409bb0"
+hash = "6d168320d157c3fb9eca53547ef2cc019a2ba4ab9e826f0432c72076c9b700a8"
 
 [[files]]
 file = "global_packs/required_data/Vegan Craft/data/vegan_craft/recipes/granite.json"
-hash = "335ae2cfa2d2837a80dbd05045abf3776dfa5705e4d12cc87edd343eb58f05ca"
+hash = "f7f4dd85ed85e1c0aceed08556e751d3ec144269efe4140a6d351615425d1c11"
 
 [[files]]
 file = "global_packs/required_data/Vegan Craft/data/vegan_craft/recipes/honey.json"
-hash = "04747697b8fc97b4a29d813ea504aa3798b2f641a91383aa6c4e502127a6e9fe"
+hash = "821e1b4cfc2a75eb7b2da225e2eb7ae231e6f742ce9ce42b4ec0a70b5395e107"
 
 [[files]]
 file = "global_packs/required_data/Vegan Craft/data/vegan_craft/recipes/leather_smelt.json"
@@ -746,23 +746,23 @@ hash = "f0775634b32441a8acb88b2de281676beadc29842047816527580a67642cbab8"
 
 [[files]]
 file = "global_packs/required_data/Vegan Craft/data/vegan_craft/recipes/mutton.json"
-hash = "2ec0993771cd27e22251241d99f1a4fff26054f9927f84c7934bbb2e51b63f08"
+hash = "26d4947e7733a357dd8e8fc7b635e45322a12488152cfc8afa8b77964dbd9fa5"
 
 [[files]]
 file = "global_packs/required_data/Vegan Craft/data/vegan_craft/recipes/oatmilk.json"
-hash = "2d91e59ee54658c9e348d147eb5a5117bcf56d895c3fb05135db76183e95baa9"
+hash = "4f7d50fe51dd97a94d079fb9dee584344354e0249f69048bb5bbb7ca9559f04f"
 
 [[files]]
 file = "global_packs/required_data/Vegan Craft/data/vegan_craft/recipes/pork.json"
-hash = "0aa46b19a7c49fa367a19862d5d664fa3a6e7cf3fe8cfdf5211dad72c418d85c"
+hash = "45fddff4fa5e8f01a3a376a37741f4cd18f18aaf78bb12650dd8b61bde15daba"
 
 [[files]]
 file = "global_packs/required_data/Vegan Craft/data/vegan_craft/recipes/rabbit.json"
-hash = "26307c47bc58eeefd2f9a31dd939f22e2f80615d8a8f5ec9eca06761b21745e3"
+hash = "061c5b4bdc1ffed9508c7594ad8474aaf1b73d1757e4565133d3334e0798a252"
 
 [[files]]
 file = "global_packs/required_data/Vegan Craft/data/vegan_craft/recipes/vegitableoil.json"
-hash = "9c09d1debb2e0b1f5cdbe4bbfe20b3355025a6ad44831606e2b118d4693b0576"
+hash = "27617fc81b2f7808ca125dd2b6f0b11ae4973dbedd9a1d84231cf0e07c0923aa"
 
 [[files]]
 file = "global_packs/required_data/Vegan Craft/data/vegan_craft/tags/items/oil.json"
