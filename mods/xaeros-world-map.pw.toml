@@ -3,7 +3,7 @@ filename = "XaerosWorldMap_1.37.2_Forge_1.20.jar"
 side = "both"
 
 [option]
-optional = true
+optional = false
 default = true
 
 [download]

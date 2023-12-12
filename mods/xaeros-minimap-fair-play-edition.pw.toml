@@ -3,7 +3,7 @@ filename = "Xaeros_Minimap_FP23.8.2_Forge_1.20.jar"
 side = "both"
 
 [option]
-optional = true
+optional = false
 default = true
 
 [download]

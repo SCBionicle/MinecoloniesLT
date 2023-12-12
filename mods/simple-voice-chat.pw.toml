@@ -3,7 +3,7 @@ filename = "voicechat-forge-1.20.1-2.4.30.jar"
 side = "both"
 
 [option]
-optional = true
+optional = false
 description = "This is a proximaty voice chat mod for the server"
 default = true
 
