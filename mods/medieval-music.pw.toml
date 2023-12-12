@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
+description = "Epic medieval music, can be loud."
 
 [download]
 hash-format = "sha1"
