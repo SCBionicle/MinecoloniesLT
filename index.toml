@@ -222,7 +222,7 @@ hash = "a0372e5ab4826bbdb0c252ea701e5f576105e63eab0d37d1f8e1b806d36167b5"
 
 [[files]]
 file = "config/dynview-common.toml"
-hash = "a0372e5ab4826bbdb0c252ea701e5f576105e63eab0d37d1f8e1b806d36167b5"
+hash = "47a316327afce3aa79a62eb5cb7fd71ff7d6dc1d51863bf5a28c80da0d2b2e5d"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -963,7 +963,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-view.pw.toml"
-hash = "2423502ac14234635177138909605f6fe8fb6a7e0fedba4f32fd673415310d37"
+hash = "720e9b95940d4037e0b70dacbbcc315995b5c39ca7d98fb8c78702f8300fda05"
 metafile = true
 
 [[files]]
@@ -983,7 +983,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "aece1c44c372db91019c20b6e910ca33b4eb5923e7fe2470d8f8ffb71601972e"
+hash = "5204344cfd03143aa17b28a4545a9ca8c38495a004cd43d27ab85bab0d9b1282"
 metafile = true
 
 [[files]]
