@@ -554,7 +554,7 @@ hash = "f1c59e24832830f2b030a8efb16fb282f1692266026d3cfb9fca393943f8fe9e"
 
 [[files]]
 file = "config/shutdowner-common.toml"
-hash = "5cac06a5fe379ebccf6c3df69dc67efb81060fa46d8481d6c771b6112c019985"
+hash = "0f6e45bc8b0c2b06ef98295b30e61d6c523e6032fb0a9c66d2ad91b453a6bfd1"
 
 [[files]]
 file = "config/smoothchunk.json"
