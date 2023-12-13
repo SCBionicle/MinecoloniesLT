@@ -1047,6 +1047,11 @@ hash = "8cd77a97116580e66553c94d96c9f14ec7cf83261056e108d029092ab53086ab"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "50c3cff2f8b0bd40b56d2c25177255b13a07139390e251902ba9165e9cce9a33"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "3a61d8d5097d96d41106c38bd40d17b8847c0d388219e6797ba29b187fd50411"
 metafile = true
