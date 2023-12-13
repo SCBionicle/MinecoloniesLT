@@ -828,7 +828,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-music.pw.toml"
-hash = "a3ac8133c0cd3d1adf12156e90d90a4a2eb64de62f70517b91cfc4e443125b76"
+hash = "45136ef77337594ee8717fd558ce80520dba98a2297c947edf03330011a71d82"
 metafile = true
 
 [[files]]
@@ -1108,7 +1108,7 @@ metafile = true
 
 [[files]]
 file = "mods/medieval-music.pw.toml"
-hash = "58dd33787e7e8f03ee45d6f1524c2b132d7de18cd9c197b85a9dca890b126a99"
+hash = "7b41b7d9ed263b58d8106adda841697b71bbf8ea226be2bdd78d7643a0d16d29"
 metafile = true
 
 [[files]]

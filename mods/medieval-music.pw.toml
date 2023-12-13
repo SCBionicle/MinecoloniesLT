@@ -5,7 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
-description = "Epic medieval music, can be loud."
+description = "Epic medieval music, can be loud.\nIf you disable this, please disable Biome Music for compatibility."
 
 [download]
 hash-format = "sha1"
