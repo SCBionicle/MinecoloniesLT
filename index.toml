@@ -650,7 +650,7 @@ hash = "9bdf06ef96f564925566ee1a119df656d473be0625be173506d1919acc2631e3"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a97e00905ac6bf795200dfa513796991dc7b8491431f898a274b2d59e6829d37"
+hash = "f48cf8cfb1f026263bfc80485ea5e803866a3cb8b7aee8a2dd64c583d06521c6"
 
 [[files]]
 file = "defaultconfigs/corpse-server.toml"
