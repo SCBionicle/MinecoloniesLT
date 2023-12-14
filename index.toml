@@ -932,7 +932,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "4aded7c97070a0eeaae6a8d0dbca92d6ab2e4ceeed98f24f29d55ed76dcec5dd"
+hash = "ee7e8aedd0febb425a837c78acf2a4b5b8729c0a854c3b6a2d57ed27f5cf5afe"
 metafile = true
 
 [[files]]
@@ -1072,7 +1072,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b74c92587d89d25881499adfdc925dc65c6bc4558d3c282d8872dc82047cd112"
+hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
 metafile = true
 
 [[files]]
