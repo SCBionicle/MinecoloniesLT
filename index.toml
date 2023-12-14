@@ -1369,3 +1369,7 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "50c709e0297001b0825179335e9f8c81d802740612497e1d231abb19b2fef6bc"
 metafile = true
+
+[[files]]
+file = "world/serverconfig/minecolonies-server.toml"
+hash = "d2f95b6b9203e6ab93064b7c7b6bc57d97945ec9cce64c684ad01bc580299ee5"
