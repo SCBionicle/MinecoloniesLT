@@ -262,7 +262,7 @@ hash = "e3ca99e0f233e3bcf8b6762a85b1139f716bf96644318fe9cb022c270461b287"
 
 [[files]]
 file = "config/forgivingworld.json"
-hash = "7f023f18a9d801d9565edf3b898387759ccb8f03500999fba07d5907dc69971d"
+hash = "82c907d4d54a8027e86492fcfb87897e09ae5b365a0b5585e65e9c30efc0693f"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
@@ -1007,7 +1007,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgiving-world.pw.toml"
-hash = "5f575f59545e333d9881801c98df143f55ec2dae9300c5090d70bfe96810244e"
+hash = "2b1b5e4c258f615c18dfc10deac632224763a03df396128acad3c60d45191ff2"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "Forgiving World - Dimension Stacking[Forge/Fabric]"
 filename = "forgivingworld-1.20.1-4.2.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

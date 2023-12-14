@@ -48,7 +48,7 @@
     },
     {
       "from": "minecraft:overworld",
-      "to": "minecraft:overworld",
+      "to": "minecraft:the_end",
       "teleporttype": {
         "teleporttype": "AIR",
         "teleport_to_y": 360
