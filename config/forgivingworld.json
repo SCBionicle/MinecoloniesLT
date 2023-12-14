@@ -53,7 +53,8 @@
         "teleporttype": "AIR",
         "teleport_to_y": 360
       },
-      "abovey": 364
+      "abovey": 364,
+      "slowfallticks": 400
     }
   ]
 }
