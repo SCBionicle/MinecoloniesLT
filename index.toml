@@ -649,6 +649,10 @@ file = "config/waystones-common.toml"
 hash = "9bdf06ef96f564925566ee1a119df656d473be0625be173506d1919acc2631e3"
 
 [[files]]
+file = "config/xaerominimap_entities.json"
+hash = "a97e00905ac6bf795200dfa513796991dc7b8491431f898a274b2d59e6829d37"
+
+[[files]]
 file = "defaultconfigs/corpse-server.toml"
 hash = "460db7af2ccc273cf9b99d67bf1501a5b5b90a1e92a41547386116c725c5f7b7"
 
@@ -1337,8 +1341,8 @@ hash = "f6ee1f38a7b2e87a832440000c2dde2abda069aee60190f0cff0c20d287fa933"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "717beb811de61a40b1ca030f3f7d524e2e93342ce3441d01aa4b71bf92847f0e"
+file = "mods/xaeros-minimap.pw.toml"
+hash = "0c05da9019ad9d106253954dad1d1c7b969c0d2192f712ec039064515f1481ec"
 metafile = true
 
 [[files]]
