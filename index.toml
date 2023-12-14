@@ -222,7 +222,7 @@ hash = "a0372e5ab4826bbdb0c252ea701e5f576105e63eab0d37d1f8e1b806d36167b5"
 
 [[files]]
 file = "config/dynview-common.toml"
-hash = "5995b32fd35beba12516ba6ff2e41ced28c0f92656e8f9e46552ff889d7e2766"
+hash = "631c93c14cb6cbd965d76de5ff17d8e59a6203081b07e3f109d6a44411c525e5"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
