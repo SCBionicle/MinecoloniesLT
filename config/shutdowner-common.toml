@@ -22,5 +22,5 @@
 
 	["Shutdowner settings"."server runtime hang settings"]
 		#Whether to detect and close the server hang during runtime default: true
-		shouldDetectHang = true
+		shouldDetectHang = false
 
