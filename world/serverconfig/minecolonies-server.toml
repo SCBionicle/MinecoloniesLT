@@ -23,7 +23,7 @@
 	builderbuildblockdelay = 15
 	#Delay modifier to mine a block (decreasing it decreases the delay). [Default: 500, min: 1, max: 10000]
 	#Range: 1 ~ 10000
-	blockminingdelaymodifier = 500
+	blockminingdelaymodifier = 50
 	#Should development features be enabled (might be buggy)? [Default: false]
 	enableindevelopmentfeatures = false
 	#Should citizen name tags be rendered? [Default: true]
