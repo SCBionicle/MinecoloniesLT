@@ -1371,5 +1371,9 @@ hash = "50c709e0297001b0825179335e9f8c81d802740612497e1d231abb19b2fef6bc"
 metafile = true
 
 [[files]]
+file = "world/serverconfig/hourglass-server.toml"
+hash = "6a30fbd851bd259e7dc146c08fc24c4479d528ee053615c6cb4f070c92af18d2"
+
+[[files]]
 file = "world/serverconfig/minecolonies-server.toml"
 hash = "c2334fac536737867af024bb3fa161fafc6ae2e25710a553646d3b477617efcc"
