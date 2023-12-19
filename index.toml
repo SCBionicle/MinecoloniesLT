@@ -1372,7 +1372,7 @@ metafile = true
 
 [[files]]
 file = "world/serverconfig/hourglass-server.toml"
-hash = "db7005b2cb85d21fe78169ddd1d06c934aa089495faf09e93bf35d22adef24f1"
+hash = "36598e73d75d777786c9d9d66c9771155da27902a6a25d3e9d27a35b79df815f"
 
 [[files]]
 file = "world/serverconfig/minecolonies-server.toml"
