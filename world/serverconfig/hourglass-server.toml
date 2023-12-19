@@ -17,7 +17,7 @@
 		#When set to SLEEPING, this effect only applies when at least one player is sleeping in a dimension.
 		#Note: This setting is not applicable if game rule doWeatherCycle is false.
 		#Allowed Values: NEVER, ALWAYS, SLEEPING
-		weatherEffect = "ALWAYS"
+		weatherEffect = "SPEEPING"
 		#When applied, this effect syncs the random tick speed with the current speed of time, forcing
 		#crop, tree, and grass growth to occur at baseRandomTickSpeed multiplied by the current time-speed.
 		#When set to SLEEPING, randomTickSpeed is set to baseRandomTickSpeed unless at least one player is sleeping in a dimension.
@@ -25,7 +25,7 @@
 		#WARNING: This setting overwrites the randomTickSpeed game rule. To modify the base random tick speed,
 		#use the baseRandomTickSpeed setting instead of changing the game rule directly.
 		#Allowed Values: NEVER, ALWAYS, SLEEPING
-		randomTickEffect = "SLEEPING"
+		randomTickEffect = "ALWAYS"
 		#The base random tick speed used by the randomTickEffect time effect.
 		#Range: > 0
 		baseRandomTickSpeed = 3
@@ -35,7 +35,7 @@
 		#When set to ALWAYS, this effect applies to all players in the dimension, day or night.
 		#When set to SLEEPING, this effect only applies to players who are sleeping.
 		#Allowed Values: NEVER, ALWAYS, SLEEPING
-		potionEffect = "NEVER"
+		potionEffect = "SLEEPING"
 		#When applied, this effect progresses player hunger effects to match the rate of the current time-speed.
 		#This results in faster healing when food level is full, and faster harm when food level is too low.
 		#This effect does not apply if time speed is 1.0 or less.
@@ -78,7 +78,7 @@
 	#Set to 'true' for the weather to clear when players wake up in the morning as it does in vanilla.
 	#Set to 'false' to force weather to pass naturally. Adds realism when accelerateWeather is enabled.
 	#Note: This setting is ignored if game rule doWeatherCycle is false.
-	clearWeatherOnWake = false
+	clearWeatherOnWake = true
 	#When true, players are allowed to sleep at all times of day in dimensions controlled by Hourglass.
 	#Note: Other mods may override this ability.
 	allowDaySleep = true
