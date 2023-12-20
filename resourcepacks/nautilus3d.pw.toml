@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+description = "Resource pack"
 
 [download]
 url = "https://cdn.modrinth.com/data/1MyOrwfu/versions/ewNb5hCx/Nautilus3D_V1.9_%5BMC-1.13%2B%5D.zip"
