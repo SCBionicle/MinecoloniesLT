@@ -4,6 +4,7 @@ side = "client"
 
 [option]
 optional = true
+description = "Requires Oculus to load"
 
 [download]
 url = "https://cdn.modrinth.com/data/Q1vvjJYV/versions/1aQAjQxR/BSL_v8.2.07.1.zip"
