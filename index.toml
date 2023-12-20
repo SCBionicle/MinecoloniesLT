@@ -1172,7 +1172,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "8e133fcebd04ec7c04c8c918f77e4f8671f1455f3dc33dbaabf7b2a06e9ad5fd"
+hash = "c8f587258f2fb3ae2ecacbca6a78d5366ceb83568a5b8f78417613d1c520d9cc"
 metafile = true
 
 [[files]]
@@ -1392,7 +1392,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/nautilus3d.pw.toml"
-hash = "b252eaf5b43ddc31f3e38dcbcdde4d6b3344d40e209efa456ae845e24922ed4d"
+hash = "cf3ae650557a1e8f7113dba12f1e4fc6e7ba4b17a81db1178a757d9508a791a8"
 metafile = true
 
 [[files]]
