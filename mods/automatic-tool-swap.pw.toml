@@ -1,0 +1,13 @@
+name = "Automatic Tool Swap"
+filename = "ToolSwap-1.20.1-5.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/L9JLNLqk/versions/oAXMMbAT/ToolSwap-1.20.1-5.0.0.jar"
+hash-format = "sha1"
+hash = "54a6be881721c9c0a817bfc980765d47a3558419"
+
+[update]
+[update.modrinth]
+mod-id = "L9JLNLqk"
+version = "oAXMMbAT"
