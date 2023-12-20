@@ -646,7 +646,7 @@ hash = "a0c9833c1ef96f9c7776bc98884eacef8aa58c47bdefb999b89756530705f5b9"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "67c4dbd9f257ee1e55913facc8c35ae19268719dbf398a91da221835ae7c667a"
+hash = "cb0c7b7b10d790ef486471eb13b35ca1607628f54fa0b8457077e5bb73bea2cf"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
