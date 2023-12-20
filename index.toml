@@ -841,11 +841,6 @@ hash = "45136ef77337594ee8717fd558ce80520dba98a2297c947edf03330011a71d82"
 metafile = true
 
 [[files]]
-file = "mods/biome_particle_weather.pw.toml"
-hash = "f3376588930575a189d0df00e12a02fa605170c3737c8cd84b51a4bc9b92500e"
-metafile = true
-
-[[files]]
 file = "mods/biomesize.pw.toml"
 hash = "9386c5acbdc0bf4a05abef44b4cb227a6c07dfabcf37fa908ce5b48d79c77d96"
 metafile = true
