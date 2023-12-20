@@ -1391,6 +1391,11 @@ hash = "50c709e0297001b0825179335e9f8c81d802740612497e1d231abb19b2fef6bc"
 metafile = true
 
 [[files]]
+file = "resourcepacks/nautilus3d.pw.toml"
+hash = "b252eaf5b43ddc31f3e38dcbcdde4d6b3344d40e209efa456ae845e24922ed4d"
+metafile = true
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "15bdbd59469f7642e41c0f6d10e2ae408ceda454d6838da93e1148c4a1f6824b"
 metafile = true
