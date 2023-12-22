@@ -1396,6 +1396,11 @@ hash = "50c709e0297001b0825179335e9f8c81d802740612497e1d231abb19b2fef6bc"
 metafile = true
 
 [[files]]
+file = "resourcepacks/a-better-than-vanilla-texture-pack.pw.toml"
+hash = "c529e8e6b3ca091a544583b5c1b61cd17a85165e87dfc2234d18b4e186a971d7"
+metafile = true
+
+[[files]]
 file = "resourcepacks/nautilus3d.pw.toml"
 hash = "cf3ae650557a1e8f7113dba12f1e4fc6e7ba4b17a81db1178a757d9508a791a8"
 metafile = true
