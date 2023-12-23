@@ -1112,7 +1112,7 @@ metafile = true
 
 [[files]]
 file = "mods/limited-chunkloading.pw.toml"
-hash = "7d0623843db6b06db1015817db615fae393e1c8102a8ca4fef79f5fbc4ac4701"
+hash = "9a705444cd9ab85c599847e6996baec35d0eed32cd4be86491c2205d1ab547eb"
 metafile = true
 
 [[files]]
