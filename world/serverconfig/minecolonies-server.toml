@@ -179,7 +179,7 @@
 	#Allowed Values: DAMAGE_NOTHING, DAMAGE_PLAYERS, DAMAGE_ENTITIES, DAMAGE_EVERYTHING
 	turnoffexplosionsincolonies = "DAMAGE_ENTITIES"
 	#Players who have special permissions, especially to change citizen names (see "Name Changes" above). 
-	specialpermgroup = ["_Raycoms_"]
+	specialpermgroup = ["SCBionicle"]
 	#Blocks players should be able to interact with in any colony (ex: vending machines) 
 	freetointeractblocks = ["dirt", "0 0 0"]
 	#Seconds between each permission message (to reduce spam). [Default: 30, min: 1, max: 1000]
