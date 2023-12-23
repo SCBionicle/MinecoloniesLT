@@ -422,7 +422,7 @@ hash = "de4cbb18ab491b193f2c293421674e2990dafba5f8483d47607c2b8e65e9c1df"
 
 [[files]]
 file = "config/limitedchunks.json"
-hash = "2c31744153b3361c8f9ccb73e7746a76a943af3a847c5e280abb9f75ca71b848"
+hash = "95fa839c1764f363659bf3c65b493f35967a578d2608c6fef237c3a821ff4014"
 
 [[files]]
 file = "config/littlelogistics-client.toml"

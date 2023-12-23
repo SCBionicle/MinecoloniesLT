@@ -9,6 +9,6 @@
   },
   "excludedtickets": {
     "desc:": "List of excluded ticket/chunkload types, these are mod-specific. : e.g. format :  [\"mekanism\", \"player\"]",
-    "excludedtickets": []
+    "excludedtickets": ["minecolonies"]
   }
 }
