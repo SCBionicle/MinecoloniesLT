@@ -42,7 +42,7 @@
 	dirtfromcompost = 1
 	#Chance for the Miner to get an ore when mining cobblestone or stone (by default, can be expanded with datapacks to other materials). This is a percentage. (To change which ores the Miner can find, see "List of Lucky Ores".) [Default: 1, min: 0, max: 100]
 	#Range: 0 ~ 100
-	luckyblockchance = 1
+	luckyblockchance = 20
 	#The minimum level a Town Hall has to be to allow teleportation to allied colonies. [Default: 3, min: 0, max: 5]
 	#Range: 0 ~ 5
 	minthleveltoteleport = 3
