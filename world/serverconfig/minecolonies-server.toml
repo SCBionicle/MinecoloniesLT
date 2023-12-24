@@ -132,7 +132,7 @@
 	dobarbariansspawn = true
 	#The difficulty setting for raiders. [Default: 5, min: 0, max: 10]
 	#Range: 0 ~ 10
-	barbarianhordedifficulty = 7
+	barbarianhordedifficulty = 5
 	#The max size of a raider horde. [Default: 80, min: 6, max: 400]
 	#Range: 6 ~ 400
 	maxBarbarianSize = 60
