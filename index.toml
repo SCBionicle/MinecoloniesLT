@@ -1076,6 +1076,11 @@ hash = "50c3cff2f8b0bd40b56d2c25177255b13a07139390e251902ba9165e9cce9a33"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "bd5450bc684f96192d438b7f2ceecab5d6dc92916e220ebece96cf6cb0dd932b"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "3a61d8d5097d96d41106c38bd40d17b8847c0d388219e6797ba29b187fd50411"
 metafile = true
@@ -1262,7 +1267,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "590bad572f7a77f8ecc3b6cf7a6c7288c92c0d3af49aa1f5039b3584b1e99401"
+hash = "c2100cc59d9b091423be6a7a355498bd24f03d8081e87acae4f5a6683cda7a04"
 metafile = true
 
 [[files]]
