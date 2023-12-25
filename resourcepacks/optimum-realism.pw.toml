@@ -1,0 +1,18 @@
+name = "Optimum Realism"
+filename = "Optimum Realism R15  128x [Kappa, BSL,etc] WIP.zip"
+side = "client"
+
+[option]
+optional = true
+default = false
+description = "PBR Resource Pack, Shader Pack Recommended"
+
+[download]
+url = "https://cdn.modrinth.com/data/jbhXFk8s/versions/KsC5ug6f/Optimum%20Realism%20R15%20%20128x%20%5BKappa%2C%20BSL%2Cetc%5D%20WIP.zip"
+hash-format = "sha1"
+hash = "37a89cd6d29c218ce97bc9a3c245b462931256f3"
+
+[update]
+[update.modrinth]
+mod-id = "jbhXFk8s"
+version = "KsC5ug6f"

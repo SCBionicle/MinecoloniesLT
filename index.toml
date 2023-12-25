@@ -1416,6 +1416,11 @@ hash = "cf3ae650557a1e8f7113dba12f1e4fc6e7ba4b17a81db1178a757d9508a791a8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/optimum-realism.pw.toml"
+hash = "8871f6855374ee0bc85412af853901809a6527a47cacbeba9cb5dd40a5e767da"
+metafile = true
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "15bdbd59469f7642e41c0f6d10e2ae408ceda454d6838da93e1148c4a1f6824b"
 metafile = true
