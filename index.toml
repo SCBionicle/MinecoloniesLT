@@ -906,6 +906,11 @@ hash = "556f4d100557d0d230ee21dca59cb7fe57b7daba4256bc84fece11875a2e613e"
 metafile = true
 
 [[files]]
+file = "mods/config-menus-forge.pw.toml"
+hash = "d7c2a547057823e43871c7a432a95b5a821e4da5f9fa574a53617642e90d1a43"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "6aafc2bb9101fc3e3548af4677a482eb5f6f85040394230911bc8fa0c46f37a9"
 metafile = true
