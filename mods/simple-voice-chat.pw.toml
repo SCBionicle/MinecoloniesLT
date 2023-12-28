@@ -1,18 +1,18 @@
 name = "Simple Voice Chat"
-filename = "voicechat-forge-1.20.1-2.4.30.jar"
+filename = "voicechat-forge-1.20.1-2.4.32.jar"
 side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ddc174a52973036e5fcfd2fb72686b3b18aed3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4961385
+project-id = 416089
 
 [option]
 optional = false
 description = "This is a proximaty voice chat mod for the server"
 default = true
-
-[download]
-hash-format = "sha1"
-hash = "d68d447747bb50f3f6e3fb0001aa0c35d8a7ca82"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4939629
-project-id = 416089
