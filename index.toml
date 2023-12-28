@@ -1261,6 +1261,16 @@ hash = "f0fd4a5a1040a5d4fc9b936aff5ad198b6de202a3856a69ca31f691803fb75ac"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons-fix.pw.toml"
+hash = "75dd9fab0f859a5245bfa1648d425566d7d58627e6c1fd78ff76645225561067"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "84ba27cb7bd05174860dba55739d5252f74effd0d77e16383b6c46052fb1774b"
+metafile = true
+
+[[files]]
 file = "mods/shutdowner.pw.toml"
 hash = "15af47755c7a7cb3af903144b9643225731be3d34ea413cc9e974936a37bbe75"
 metafile = true
