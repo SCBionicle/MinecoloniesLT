@@ -140,7 +140,7 @@
 	dobarbariansbreakthroughwalls = true
 	#The average number of nights between raids. [Default: 14, min: 1, max: 50]
 	#Range: 1 ~ 50
-	averagenumberofnightsbetweenraids = 21
+	averagenumberofnightsbetweenraids = 14
 	#The minimum number of nights between raids. [Default: 10, min: 1, max: 30]
 	#Range: 1 ~ 30
 	minimumnumberofnightsbetweenraids = 10
