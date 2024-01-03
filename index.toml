@@ -557,6 +557,14 @@ file = "config/resourceful-config-web.json"
 hash = "f1c59e24832830f2b030a8efb16fb282f1692266026d3cfb9fca393943f8fe9e"
 
 [[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "1b011c90deddcb4c50aa2e813a03fdf49a9c622f16203906687694d8eb018720"
+
+[[files]]
+file = "config/sereneseasons/seasons.toml"
+hash = "1e2947edfe05bf3763e248fad734a46e577f983a64c93ac7b3cdb767244db17a"
+
+[[files]]
 file = "config/shutdowner-common.toml"
 hash = "2ed47559fb98f8b02a94fbc1de5477fa4a4431f70dd5fea89af99fe55e718f3b"
 
