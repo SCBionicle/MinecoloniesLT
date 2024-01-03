@@ -1,0 +1,6 @@
+
+# Exclude readme
+/README.md
+
+# exclude github actions
+/.github/
