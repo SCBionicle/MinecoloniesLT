@@ -905,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "fff3ae777c71dd0d118d1e95347a5c5477782a0c2290c9f02f038d98fba1b1d4"
+hash = "079900b62dc3db7d111eb5cea93e34867dc26e22243e711734b50181c844c11e"
 metafile = true
 
 [[files]]
@@ -1160,7 +1160,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "447d56280ade4bfc4cb699bc554d03e0841cc7f0bafcb5748e172919d2e643f0"
+hash = "b518ac990783dd60a8df46c2f9ae9a4aeb67c681f72e9d57d87ae2cb8a02fb99"
 metafile = true
 
 [[files]]
@@ -1195,7 +1195,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "c8f587258f2fb3ae2ecacbca6a78d5366ceb83568a5b8f78417613d1c520d9cc"
+hash = "c72100a93fa4de668ad5d3cc16d50ed568d7e465b58beb77d8b373345577f642"
 metafile = true
 
 [[files]]
@@ -1220,7 +1220,7 @@ metafile = true
 
 [[files]]
 file = "mods/playerrevive.pw.toml"
-hash = "47693e6d595def3e081846749fc24f1e5ad0f56ecb161fdb18cc3fe26afa9ff5"
+hash = "4674b9fda4bdaf5b2d374b2f2d03e71bed4b41949fab6090fe9fc1ee627aa2ea"
 metafile = true
 
 [[files]]
@@ -1255,7 +1255,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "76f93b12bba01e5649c2925889e640a72fd348a6a8a6c2ae2be3bea6d15f233c"
+hash = "e91ffac568d3823e1b6cbf7cf984b27a145ec4a9f23a00f2fe76445175484d1d"
 metafile = true
 
 [[files]]
@@ -1325,7 +1325,7 @@ metafile = true
 
 [[files]]
 file = "mods/stylecolonies.pw.toml"
-hash = "b6c33c99bf49edd546b108ce6b40f1239d1a627014fe56cc71cb9743644d592c"
+hash = "b012bf0461a55d5f74534f2d5e3b2fc223b05ea1cf8103a4a3ba62e17dd94f03"
 metafile = true
 
 [[files]]
