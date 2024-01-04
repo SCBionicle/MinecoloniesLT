@@ -17,7 +17,7 @@
 		#When set to SLEEPING, this effect only applies when at least one player is sleeping in a dimension.
 		#Note: This setting is not applicable if game rule doWeatherCycle is false.
 		#Allowed Values: NEVER, ALWAYS, SLEEPING
-		weatherEffect = "SPEEPING"
+		weatherEffect = "SLEEPING"
 		#When applied, this effect syncs the random tick speed with the current speed of time, forcing
 		#crop, tree, and grass growth to occur at baseRandomTickSpeed multiplied by the current time-speed.
 		#When set to SLEEPING, randomTickSpeed is set to baseRandomTickSpeed unless at least one player is sleeping in a dimension.
@@ -35,7 +35,7 @@
 		#When set to ALWAYS, this effect applies to all players in the dimension, day or night.
 		#When set to SLEEPING, this effect only applies to players who are sleeping.
 		#Allowed Values: NEVER, ALWAYS, SLEEPING
-		potionEffect = "SLEEPING"
+		potionEffect = "ALWAYS"
 		#When applied, this effect progresses player hunger effects to match the rate of the current time-speed.
 		#This results in faster healing when food level is full, and faster harm when food level is too low.
 		#This effect does not apply if time speed is 1.0 or less.
@@ -48,7 +48,7 @@
 		#This effect does not apply if time speed is 1.0 or less.
 		#When set to SLEEPING, this effect only applies when at least one player is sleeping in a dimension.
 		#Allowed Values: NEVER, ALWAYS, SLEEPING
-		blockEntityEffect = "SLEEPING"
+		blockEntityEffect = "ALWAYS"
 
 [sleep]
 	#Enables or disables the sleep feature of this mod. Enabling this setting will modify the vanilla sleep functionality
