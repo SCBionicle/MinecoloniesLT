@@ -1434,6 +1434,11 @@ hash = "2bf0aa4557d64b391b208b06172f3eddfe61735afd35dc9598d750007426f42a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/legacies-music.pw.toml"
+hash = "14b43a7457ca5fc61c4c10017bb8423dbf72046d5a74adbd743b039bb4ff52af"
+metafile = true
+
+[[files]]
 file = "resourcepacks/nautilus3d.pw.toml"
 hash = "cf3ae650557a1e8f7113dba12f1e4fc6e7ba4b17a81db1178a757d9508a791a8"
 metafile = true
