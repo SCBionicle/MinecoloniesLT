@@ -1054,6 +1054,11 @@ hash = "2aeab43f8b457417a4a91782cf1b3fa9de2c06a522e83e6555355c708d2c935e"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "4af3085e1acb71c9eed4a35981f14b542fb986bf8a4afa2fa6f02e9e86117227"
+metafile = true
+
+[[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "21767a26f0b81ce406431c8e7bef0be3d0f1b8b109b9748a5ebbda1a18417aec"
 metafile = true
