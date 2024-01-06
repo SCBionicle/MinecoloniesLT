@@ -2,6 +2,10 @@ name = "Legacies Music"
 filename = "legacies-music-1.20-v1.2.2.zip"
 side = "client"
 
+[option]
+optional = true
+description = "Music pack\n\nPlease disable Medieval Music mod as this resource pack will be overwritten.\n\nRemember to enable this in resource pack settings"
+
 [download]
 url = "https://cdn.modrinth.com/data/dAU9uKaA/versions/Mp8B2bCo/legacies-music-1.20-v1.2.2.zip"
 hash-format = "sha1"
