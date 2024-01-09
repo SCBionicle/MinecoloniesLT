@@ -1,0 +1,7 @@
+name = "Minecolonies/Farmer's Delight Compat Patch"
+filename = "Farmers.Delight.Minecolonies.Patch.zip"
+
+[download]
+url = "https://github.com/SCBionicle/Farmers-Delight-Minecolonies-Patch/releases/download/0.0.1a/Farmers.Delight.Minecolonies.Patch.zip"
+hash-format = "sha256"
+hash = "4e75ac01ab2eb4814d75db99edc041ab0c5005926511685b25b7bb02eaf3e749"
