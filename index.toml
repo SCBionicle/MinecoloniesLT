@@ -1164,6 +1164,11 @@ hash = "d39bbfa9965583437f6199d04f98d77285ffe5ae2e2abec05c53fc1748898d5a"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies-farmer-s-delight-compat-patch.pw.toml"
+hash = "e213a5de210daec9ef0d66118baf02b4d507253659c186f055ac89bf4c30615c"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "b518ac990783dd60a8df46c2f9ae9a4aeb67c681f72e9d57d87ae2cb8a02fb99"
 metafile = true
