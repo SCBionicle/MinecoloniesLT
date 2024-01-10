@@ -790,7 +790,7 @@ hash = "7e50b6df18dead9111f1784b6f4c52d6d2bcda40e31c75295314b82b32bce021"
 
 [[files]]
 file = "global_packs/required_data/mcfdpatch.pw.toml"
-hash = "e0804b4edf819b25526a488dd7262d3076f39baeda70c827b6441c307e9b354b"
+hash = "bb458e6d2064315832205c4f4ac3b4d995da404d5835a895beda2682de75a632"
 metafile = true
 
 [[files]]
