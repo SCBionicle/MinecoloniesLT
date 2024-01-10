@@ -1014,6 +1014,11 @@ hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
 metafile = true
 
 [[files]]
+file = "mods/essentials-commands.pw.toml"
+hash = "b6f69d039df96968407c2e5fb583d59f7582b2038571a86bc548d1402e7e4e27"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "f37fa0d524b176234a3f32fd2d4d448647356e8f4b3bdbca2c6927ff4a5f3721"
 metafile = true
