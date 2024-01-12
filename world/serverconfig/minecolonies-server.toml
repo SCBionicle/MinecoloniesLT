@@ -204,7 +204,7 @@
 	#Range: -58 ~ 250000
 	fishingroddurabilityadjustt1 = 22
 	#All diseases citizens can get. The name, how common it is, and all ingredients to cure it. 
-	diseases = ["Karaoke,100,minecraft:baked_potato", "Influenza,100,minecraft:carrot,minecraft:potato", "Leprosy,20,farmersdelight:barbecue_stick,farmersdelight:stuffed_potato,farmersdelight:egg_sandwich,minecraft:beetroot_soup", "Measles,5,minecraft:dandelion,minecraft:kelp,minecraft:poppy", "Smallpox,1,minecraft:honey_bottle,minecraft:golden_apple", "Ergotism,1,farmersdelight:shepherds_pie"]
+	diseases = ["Barbarianism,100,minecraft:wooden_sword", "Influenza,100,minecraft:carrot,minecraft:potato", "Leprosy,20,farmersdelight:barbecue_stick,farmersdelight:stuffed_potato,farmersdelight:egg_sandwich,minecraft:beetroot_soup", "Measles,5,minecraft:dandelion,minecraft:kelp,minecraft:poppy", "Smallpox,1,minecraft:honey_bottle,minecraft:golden_apple", "Ergotism,1,farmersdelight:shepherds_pie"]
 	#When loading recipes, generate audit CSV files to help debug datapacks or extra mods. [Default: false]
 	auditcraftingtags = false
 	#Enable inventory debugging. [Default: false]
