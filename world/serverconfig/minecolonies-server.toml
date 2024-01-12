@@ -50,7 +50,7 @@
 	suggestbuildtoolplacement = true
 	#Food consumption modifier. [Default: 1.000000, min: 0.100000, max: 100.000000]
 	#Range: 0.1 ~ 100.0
-	foodmodifier = 10.0
+	foodmodifier = 5.0
 	#How common diseases are. 1 = Very common, 100 = extremely rare. [Default: 5, min: 1, max: 100]
 	#Range: 1 ~ 100
 	diseasemodifier = 5
