@@ -1,0 +1,13 @@
+name = "Minecolonies/Farmer's Delight Compatibility Patch"
+filename = "mcfdpatch.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qzywxGQ9/versions/H2mLkJ5g/mcfdpatch.zip"
+hash-format = "sha1"
+hash = "c3a76f724fa2677b7164b1a414f34eb03b60ea4d"
+
+[update]
+[update.modrinth]
+mod-id = "qzywxGQ9"
+version = "H2mLkJ5g"
