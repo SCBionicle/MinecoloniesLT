@@ -1,18 +1,17 @@
 name = "a Better Than Vanilla texture pack"
-filename = "ABTV_64px_3.0.zip"
+filename = "aBTV_64x 1.20.4 ver3.11.zip"
 side = "client"
 
-[option]
-optional = true
-default = false
-description = "PBR Resource Pack, Shader Pack Recommended"
-
 [download]
-url = "https://cdn.modrinth.com/data/WcfyE2qJ/versions/cuQpt3cr/ABTV_64px_3.0.zip"
+url = "https://cdn.modrinth.com/data/WcfyE2qJ/versions/CtJK4iIk/aBTV_64x%201.20.4%20ver3.11.zip"
 hash-format = "sha1"
-hash = "2209d542775edda4224779a2998b476164f8b941"
+hash = "c8723046ead639d5823e36a5c22522f1991d3168"
 
 [update]
 [update.modrinth]
 mod-id = "WcfyE2qJ"
-version = "cuQpt3cr"
+version = "CtJK4iIk"
+
+[option]
+optional = true
+description = "PBR Resource Pack, Shader Pack Recommended"
