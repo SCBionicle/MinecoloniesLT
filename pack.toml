@@ -11,3 +11,6 @@ hash = "19f7164b058398c38091e1234d0308b43c6eb9f62f99536815a9e1580b2ac593"
 [versions]
 forge = "47.2.0"
 minecraft = "1.20.1"
+
+[options]
+datapack-folder = "global_packs/required_data"
