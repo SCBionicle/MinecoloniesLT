@@ -4,7 +4,7 @@ side = "client"
 
 [option]
 optional = true
-description = "Requires Oculus to load"
+description = "Requires Oculus to load\n\nrealistic version"
 
 [download]
 url = "https://cdn.modrinth.com/data/R6NEzAwj/versions/MCqlWur4/ComplementaryUnbound_r5.1.1.zip"
