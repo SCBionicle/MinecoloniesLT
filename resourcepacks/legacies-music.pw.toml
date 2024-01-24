@@ -1,16 +1,16 @@
 name = "Legacies Music"
-filename = "legacies-music-1.20-v1.2.4.zip"
+filename = "legacies-music-1.20-v1.2.6.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dAU9uKaA/versions/JuaH2UkA/legacies-music-1.20-v1.2.4.zip"
+url = "https://cdn.modrinth.com/data/dAU9uKaA/versions/r2jRNkhU/legacies-music-1.20-v1.2.6.zip"
 hash-format = "sha1"
-hash = "03d93a8881b3bb80f2694cd83943c89a804ba6da"
+hash = "f4dd826d13a808d9758d043ae5603c9bcbe3bedb"
 
 [update]
 [update.modrinth]
 mod-id = "dAU9uKaA"
-version = "JuaH2UkA"
+version = "r2jRNkhU"
 
 [option]
 optional = true

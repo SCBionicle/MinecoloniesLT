@@ -1,18 +1,17 @@
 name = "Coven"
-filename = "§d§l  [64x] COVEN v.0.14.6.zip"
+filename = "§9§l  [64x] COVEN v.0.15.0.zip"
 side = "client"
 
-[option]
-optional = true
-default = false
-description = "PBR Resource Pack, Shader Pack Recommended"
-
 [download]
-url = "https://cdn.modrinth.com/data/29CObK6J/versions/sJ8HRj1p/%C2%A7d%C2%A7l%20%20%5B64x%5D%20COVEN%20v.0.14.6.zip"
+url = "https://cdn.modrinth.com/data/29CObK6J/versions/icZg5D5E/%C2%A79%C2%A7l%20%20%5B64x%5D%20COVEN%20v.0.15.0.zip"
 hash-format = "sha1"
-hash = "4ab97be13cb8468c7e89c0da2000350aabdfc6c4"
+hash = "b6d1d58060211e56a3e0a6444789202acd3bfc2c"
 
 [update]
 [update.modrinth]
 mod-id = "29CObK6J"
-version = "sJ8HRj1p"
+version = "icZg5D5E"
+
+[option]
+optional = true
+description = "PBR Resource Pack, Shader Pack Recommended"
