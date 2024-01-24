@@ -795,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "70fd91c9029d4344e0dfb27de1b02095ff185f3cca49d29d28c65e35d61642db"
+hash = "397a22cc7c9e4fba6892fe177b571bb64dae6cd97d7e512732d190e8fb3adc13"
 metafile = true
 
 [[files]]
@@ -830,7 +830,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "a8ec03ffedd6749011b6a0b44016801dc6586083cf8636e5139c236f8772dd3d"
+hash = "9d3ea41211209c1445f91334bd1570b1f7da065d23864539766888f394dc1377"
 metafile = true
 
 [[files]]
@@ -870,7 +870,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "7e3bc5c0868815a91d70e80811f8eb25703b87173d80eea53a363039f94bff33"
+hash = "8b04552a787f02077c34970e40c2c399b572c0b5e37eb0b2ef262f27338e66e7"
 metafile = true
 
 [[files]]
@@ -950,7 +950,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "a9324c8c36bba8cd2fd97433268f6a1d5b2a5b64bd1a6c6b651fc3ba4d592dfc"
+hash = "31c5d24839876b01bfc9eab4e1c37c02b2a3e1f6e210201f9e1b68a574307bda"
 metafile = true
 
 [[files]]
@@ -965,7 +965,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "582df14a33015fe8060af8d1d759d10cfa0dbfa93927f007b611032ba574c950"
+hash = "e297fdb7786974314dffa4d0ed28736d1746543f6ba48377b630d282fa797caf"
 metafile = true
 
 [[files]]
@@ -1000,7 +1000,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "7375ef224927b2075f3f58bcc348f54a1f91ec99a34e5406e232109b6dc963a7"
+hash = "a56422457504a6bdabee7441b050124baab086ed3daf48420b3f44776b0561d5"
 metafile = true
 
 [[files]]
@@ -1020,7 +1020,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "50056479cbf8921db75cc5490dd52f8420fd4492dfe2e31ce90460b29e21057e"
+hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
 
 [[files]]
@@ -1075,7 +1075,7 @@ metafile = true
 
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
-hash = "f7a03680e73593c95179c8bee1e360dfd000befe86cb8373c33f1e9b35b0e258"
+hash = "5a1e1d9e5a5e64d7b7641ba4e394d374fd762abcb7f2920dda74c4d29bbdae86"
 metafile = true
 
 [[files]]
@@ -1115,7 +1115,7 @@ metafile = true
 
 [[files]]
 file = "mods/jadecolonies.pw.toml"
-hash = "6e0f6da66f160c45c050978db47e8295ccb0e65862e4b53b06b5b191ccd51d14"
+hash = "b4f2303ad933f043ea13832bb130fec60ad4892e489bc19f9fff7db1b9db8a66"
 metafile = true
 
 [[files]]
@@ -1170,12 +1170,12 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "60a07a9be3202f23fd8a5adcd88a26741ace525452a91a42cf7f0369f4f8ca65"
+hash = "25ac02201c3a3bd26568edeb7d681f81541f5e8e21726a02cb5d4d2ce488bed3"
 metafile = true
 
 [[files]]
 file = "mods/modulargolems.pw.toml"
-hash = "77e01184f0b5f7a2b47eaf4482b656c49da4b8bb496a9d68266c1579512bac19"
+hash = "e11db990eb4e043e016c95d0b8a20415212617d8a5778358587584d7503709e8"
 metafile = true
 
 [[files]]
@@ -1215,7 +1215,7 @@ metafile = true
 
 [[files]]
 file = "mods/paragliders.pw.toml"
-hash = "bb8fa900ae8f38288921507a3d99c669a5a2169fe9cf9dc3c67e056d107ad44a"
+hash = "e0d9db82e60f58d505d8fdb2cc2e0ed73510385582c2ca10e7934fd9fb81517e"
 metafile = true
 
 [[files]]
@@ -1230,7 +1230,7 @@ metafile = true
 
 [[files]]
 file = "mods/playerrevive.pw.toml"
-hash = "4674b9fda4bdaf5b2d374b2f2d03e71bed4b41949fab6090fe9fc1ee627aa2ea"
+hash = "cfe7761b8d0e081fe98da3dedc0b6aacbb85bbd9049b994808cd773877b07b5f"
 metafile = true
 
 [[files]]
@@ -1330,12 +1330,12 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "aed90a19329f182dd5d01d0e5d9bfc1eec7fdd87d1e38bedde839b4beef821b6"
+hash = "26edaf5b77e357133a3abdba75ec3517cef39e9413d3490911b2e4486f3401de"
 metafile = true
 
 [[files]]
 file = "mods/stylecolonies.pw.toml"
-hash = "b012bf0461a55d5f74534f2d5e3b2fc223b05ea1cf8103a4a3ba62e17dd94f03"
+hash = "236a61d8d4b61a368ecff5ce4f88752708a9b4a925f88781a116527f88c5fcee"
 metafile = true
 
 [[files]]
@@ -1380,7 +1380,7 @@ metafile = true
 
 [[files]]
 file = "mods/treechop.pw.toml"
-hash = "211abb0cfcefa8874cad6e9187f27b637f165b48caa54f75afe9b04d850a47af"
+hash = "519418490be7578ecc9a14da9258e8fd21abcd67d59277cb2fb40ef60a2b0861"
 metafile = true
 
 [[files]]
@@ -1440,12 +1440,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/coven.pw.toml"
-hash = "2bf0aa4557d64b391b208b06172f3eddfe61735afd35dc9598d750007426f42a"
+hash = "c8ff7147b3415d7824bcd5d55479a1b0c4f9f9cd36e8f4a82a8716b2116a3b3e"
 metafile = true
 
 [[files]]
 file = "resourcepacks/legacies-music.pw.toml"
-hash = "2915a379e48290f257e1b1457f50df09c69ea273262185305b9df3f543c6f2ff"
+hash = "c9ca7e14ddc6babe0ae4c91654c95598141be21a280b783ae780adfe0672fcf0"
 metafile = true
 
 [[files]]
@@ -1464,8 +1464,13 @@ hash = "15bdbd59469f7642e41c0f6d10e2ae408ceda454d6838da93e1148c4a1f6824b"
 metafile = true
 
 [[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "24cf024141495a3842ab7c5373de8cd8ebe1bac969ba130c4145616ef5c1f004"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "1c4fbd788a7a3fb2a5afcd15a15bdbc16f12ab0f118a51048df4a3217b512448"
+hash = "e0625d134348cebc20674d608ead1f2f4dead5192267436094bd37f4eec770ad"
 metafile = true
 
 [[files]]
