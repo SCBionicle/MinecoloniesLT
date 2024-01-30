@@ -1000,7 +1000,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "9d89949bd859c9c9b97216e461f5fb63755ffffeb762ec934cbe7916c5b3afa9"
+hash = "a56422457504a6bdabee7441b050124baab086ed3daf48420b3f44776b0561d5"
 metafile = true
 
 [[files]]
