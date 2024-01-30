@@ -1204,6 +1204,11 @@ hash = "950a0ff04991442b4f1924d7508e5ea48cb5ae2e751d4a4f9857868c53fa380d"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "31ae55a04e6bf3dd073be426cfd687505ebf9ab691d806d580e9a3305fc8a9ce"
+metafile = true
+
+[[files]]
 file = "mods/packed-up-backpacks.pw.toml"
 hash = "19460f0ec1b3f03d52dd2fc4b5563b5923098b0df85eb537fd83ef290d0c5ba8"
 metafile = true
