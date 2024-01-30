@@ -3,11 +3,11 @@ filename = "mcfdpatch.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qzywxGQ9/versions/H2mLkJ5g/mcfdpatch.zip"
+url = "https://cdn.modrinth.com/data/qzywxGQ9/versions/esiSZU2Z/mcfdpatch.zip"
 hash-format = "sha1"
-hash = "c3a76f724fa2677b7164b1a414f34eb03b60ea4d"
+hash = "61c2a3e7cb2437a5be585e16c126e1d1194a0502"
 
 [update]
 [update.modrinth]
 mod-id = "qzywxGQ9"
-version = "H2mLkJ5g"
+version = "esiSZU2Z"
