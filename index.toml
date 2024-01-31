@@ -1389,11 +1389,6 @@ hash = "daeb6c18f02841d0815723e369220735d5b01942a2e716e682ada8e5d5d6eeb9"
 metafile = true
 
 [[files]]
-file = "mods/vegan-delight.pw.toml"
-hash = "84ecfa2799e03dc5637ce07e41d2a77238f0d9c12912bf0d37d67b780206b742"
-metafile = true
-
-[[files]]
 file = "mods/waddles.pw.toml"
 hash = "f628012adf0747c85241a964d7b235fdfc9b348c11269d160872017b3172cac5"
 metafile = true
