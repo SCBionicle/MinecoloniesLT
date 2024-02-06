@@ -1,13 +1,13 @@
 name = "Savage Ender Dragon[Forge/Fabric]"
-filename = "dragonfight-1.20.1-4.1.jar"
+filename = "dragonfight-1.20.1-4.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "62960f8bdeaf96fe427c67bc4df49257870d67a3"
+hash = "73ab17bf58996d9be3ae95660a597f11e2f7b302"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4751133
+file-id = 5064914
 project-id = 523327

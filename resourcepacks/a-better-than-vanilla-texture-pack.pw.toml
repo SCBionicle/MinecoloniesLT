@@ -1,16 +1,16 @@
 name = "a Better Than Vanilla texture pack"
-filename = "aBTV_64x 1.20.4 ver3.11.zip"
+filename = "aBTV_64x_3.12.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WcfyE2qJ/versions/CtJK4iIk/aBTV_64x%201.20.4%20ver3.11.zip"
+url = "https://cdn.modrinth.com/data/WcfyE2qJ/versions/o2unGIBw/aBTV_64x_3.12.zip"
 hash-format = "sha1"
-hash = "c8723046ead639d5823e36a5c22522f1991d3168"
+hash = "902c744db88b5bb83534623b963caae27dcf36fa"
 
 [update]
 [update.modrinth]
 mod-id = "WcfyE2qJ"
-version = "CtJK4iIk"
+version = "o2unGIBw"
 
 [option]
 optional = true

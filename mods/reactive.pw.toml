@@ -1,13 +1,13 @@
 name = "Reactive Alchemy"
-filename = "reactive-1.20.1-7a.jar"
+filename = "reactive-1.20.1-7e.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e7aaf7a4ec4399ed5aa7f44f96fed5bb524275d5"
+hash = "9644e40df1e2b1b99e42911262e6c34042251c1a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4938340
+file-id = 5061784
 project-id = 815568
